@@ -77,8 +77,8 @@ API для управления коллекцией музыкальных тр
 
 <div align="center">
 
-![Ramzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SultanHasanov&show_icons=true&theme=radical&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SultanHasanov&layout=compact&theme=radical)
+![Ramzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramcache&show_icons=true&theme=radical&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramcache&layout=compact&theme=radical)
 
 </div>
 
